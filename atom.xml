@@ -4,7 +4,7 @@
   <title><![CDATA[Akhil Indurti]]></title>
   <link href="http://aindurti.github.io/atom.xml" rel="self"/>
   <link href="http://aindurti.github.io/"/>
-  <updated>2014-03-29T10:06:35-04:00</updated>
+  <updated>2014-04-22T11:12:15-04:00</updated>
   <id>http://aindurti.github.io/</id>
   <author>
     <name><![CDATA[Akhil Indurti]]></name>
@@ -14,28 +14,11 @@
 
   
   <entry>
-    <title type="html"><![CDATA[The problem with Pingdom]]></title>
-    <link href="http://aindurti.github.io/blog/2012/07/22/the-problem-with-pingdom/"/>
-    <updated>2012-07-22T19:13:00-04:00</updated>
-    <id>http://aindurti.github.io/blog/2012/07/22/the-problem-with-pingdom</id>
+    <title type="html"><![CDATA[Welcome to my Android Development Blog]]></title>
+    <link href="http://aindurti.github.io/blog/2014/04/22/welcome-to-my-android-development-blog/"/>
+    <updated>2014-04-22T11:10:34-04:00</updated>
+    <id>http://aindurti.github.io/blog/2014/04/22/welcome-to-my-android-development-blog</id>
     <content type="html"><![CDATA[
-
-<figure class='code'><figcaption><span>Time to be Awesome - awesome.rb </span></figcaption>
-<div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-</pre></td><td class='code'><pre><code class='rb'><span class='line'><span class="nb">puts</span> <span class="s2">&quot;Awesome!&quot;</span> <span class="k">unless</span> <span class="n">lame</span>
-</span></code></pre></td></tr></table></div></figure>
-
-
-<p><a href="http://www.pingdom.com%20Pingdom">The problem with pingdom.</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Intro]]></title>
-    <link href="http://aindurti.github.io/blog/2012/07/22/intro/"/>
-    <updated>2012-07-22T08:23:00-04:00</updated>
-    <id>http://aindurti.github.io/blog/2012/07/22/intro</id>
-    <content type="html"><![CDATA[<p>Testing!</p>
 ]]></content>
   </entry>
   
