@@ -4,7 +4,7 @@
   <title><![CDATA[Akhil Indurti]]></title>
   <link href="http://aindurti.github.io/atom.xml" rel="self"/>
   <link href="http://aindurti.github.io/"/>
-  <updated>2014-05-13T22:51:38-04:00</updated>
+  <updated>2014-05-14T06:44:08-04:00</updated>
   <id>http://aindurti.github.io/</id>
   <author>
     <name><![CDATA[Akhil Indurti]]></name>
@@ -24,6 +24,9 @@
 
 
 <p>In my search for the correct app, I came across one MAC alternative. At least&hellip;sort of. It was <a href="https://itunes.apple.com/us/app/istudiez-pro/id402989379?mt=12">iStudiez Pro</a>, an in-depth, content-wealthy application that employs heavy use of forms, guises itself in a skeumorphic calendar-like interface, while it primarily functions as a content management system. Here is an app that does everything that I want, except it neither automatically generates my data, nor does it make content management digestible. Now those are huge exceptions, when looked at the number of times the student would access the app per day. For instance, take a look at a situation when the user would need to add some sections and exams.</p>
+
+<br>
+
 
 <p><img class="center" src="http://aindurti.github.io/images/istudiez_class_addition.png"></p>
 
@@ -45,7 +48,7 @@
 
 <p><img class="center" src="http://aindurti.github.io/images/google_now_swipe.png"></p>
 
-<p>Here is an example of the swipe affordance being to dismiss a card.</p>
+<p>Here is an example of the swipe affordance for dismissing a card.</p>
 
 <p>What we learn from these lessons is that we need to focus on the details as well. The details include teaching gestures in a subtle fashion, reducing navigation efforts while making the content digestible, and gathering relevant data in pleasingly abstract ways.</p>
 
@@ -58,7 +61,7 @@
 
 <p><img class="center" src="http://aindurti.github.io/images/sub_screen_1.jpg"></p>
 
-<p>In the next article, if I don&rsquo;t do some more design iterations by then, we&rsquo;ll take a look at my higher fidelity mockups. In addition, at the end of the article, we&rsquo;ll discuss the recently popular development practice I&rsquo;ll be using for this project, managing product development with vertically integrated scopes.</p>
+<p>So what do you think? Do you think any of the possible concerns are accurate? If so, how should I address them? Let&rsquo;s have a discussion in the comments section below. In the next article, if I don&rsquo;t do some more design iterations by then, we&rsquo;ll take a look at my higher fidelity mockups. In addition, at the end of the article, we&rsquo;ll discuss the recently popular development practice I&rsquo;ll be using for this project, managing product development with vertically integrated scopes.</p>
 ]]></content>
   </entry>
   
