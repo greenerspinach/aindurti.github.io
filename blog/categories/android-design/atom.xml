@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Android Design | Akhil Indurti]]></title>
   <link href="http://aindurti.github.io/blog/categories/android-design/atom.xml" rel="self"/>
   <link href="http://aindurti.github.io/"/>
-  <updated>2014-05-22T22:37:53-04:00</updated>
+  <updated>2014-06-28T23:13:35-07:00</updated>
   <id>http://aindurti.github.io/</id>
   <author>
     <name><![CDATA[Akhil Indurti]]></name>
@@ -16,7 +16,7 @@
   <entry>
     <title type="html"><![CDATA[Pencil it In Part 3: Mockups and Project Plan]]></title>
     <link href="http://aindurti.github.io/blog/2014/05/20/pencil-it-in-mockups-and-project-plan/"/>
-    <updated>2014-05-20T14:31:20-04:00</updated>
+    <updated>2014-05-20T11:31:20-07:00</updated>
     <id>http://aindurti.github.io/blog/2014/05/20/pencil-it-in-mockups-and-project-plan</id>
     <content type="html"><![CDATA[<p>In the last article, we discussed my inspirations, such as iStudiez Pro and Google Now, in the design of the app. I also showed you my initial approach and wireframes for it. We learned that an app that simplifies the achievement of specific goals should focus on the details as well, delighting and surprising the user for the right information when he or she needs it. This post will further go into the progress of development by taking a look at the mockups I&rsquo;ve made over a few design iterations. Finally, I will give you my insight into how I will plan this project with <a href="http://37signals.com/">37signals'</a> idea of <a href="http://feltpresence.com/articles/16-managing-product-development-by-integrating-around-concerns">Managing Product Development by Integrating Around Concerns</a>.</p>
 
@@ -47,7 +47,7 @@
   <entry>
     <title type="html"><![CDATA[Pencil it In Part 2: Inspiration and Initial Approach]]></title>
     <link href="http://aindurti.github.io/blog/2014/05/05/pencil-it-in-part-2-inspiration-and-initial-approach/"/>
-    <updated>2014-05-05T22:03:25-04:00</updated>
+    <updated>2014-05-05T19:03:25-07:00</updated>
     <id>http://aindurti.github.io/blog/2014/05/05/pencil-it-in-part-2-inspiration-and-initial-approach</id>
     <content type="html"><![CDATA[<p>In the previous article, we covered the problem I had faced regarding my options for lifestyle management. While the specific problem was purely one about organizing college classes, dinners, contacts, and assignments, the discussion provided in the previous post gives general cautions to be wary of when using any type of organizer. This post will further discuss the progress of development by looking at <em>iStudiez Pro</em> and <em>Google Now</em>, two of some of my main inspirations for this app. Furthermore, we will discuss my initial approach to designing a solution to this problem.</p>
 
@@ -99,7 +99,7 @@
   <entry>
     <title type="html"><![CDATA[Pencil it In Part 1: The Problem]]></title>
     <link href="http://aindurti.github.io/blog/2014/04/28/pencil-it-in-the-clever-solution-to-to-do-lists/"/>
-    <updated>2014-04-28T18:11:16-04:00</updated>
+    <updated>2014-04-28T15:11:16-07:00</updated>
     <id>http://aindurti.github.io/blog/2014/04/28/pencil-it-in-the-clever-solution-to-to-do-lists</id>
     <content type="html"><![CDATA[<p>For the past few months, I've been designing an idea that's been percolating in my head. Sometimes ideas come serendipitously, in the way Roman Nurik <a href="https://medium.com/philosophy-logic/3a1721a6f716">came up</a> with Muzei, the elegant and inspiring solution to colorful Android home screen wallpapers. What I greatly admire about Roman's work is that he approaches very specific problems. Sometimes, this type of modular thinking is not only beneficial to the creator by targeting a specific market, but also for future developers who can leverage your progress to use in their own products.</p>
 
