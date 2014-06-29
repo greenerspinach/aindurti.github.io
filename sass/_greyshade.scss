@@ -1,0 +1,334 @@
+//This is the main GREYSHADE css file.
+
+html {
+  height: 100%;
+}
+
+body {
+	background: #3D4349;
+	font-family: $font;
+	background: $color-sidebar;
+	height: 100%;
+	color: #333;
+	font-size: 16px;
+}
+
+body strong {
+	font-weight: 700;
+}
+
+::selection, ::-moz-selection, ::-webkit-selection {
+  background-color: $greyshade;
+  color: $color-background;
+}
+
+#header {
+	height: auto;
+	border-bottom: none;
+	text-align: center;
+	.subtitle {
+		color: #999;
+		font-style: italic;
+		text-align:center;
+	}
+	#sub-nav {
+		float: none;
+		margin-top: 0;
+		position: relative;
+		.social {
+			float: none;
+		}
+		.search {
+			float: none;
+			.alignright {
+				float: none;
+			}
+		}
+	}
+
+	h1 {
+		font-weight: 500;
+		float: none;
+	}
+
+	#main-nav {
+		float: none;
+		margin-left: 0;
+
+		ul {
+			li {
+				margin-left: 0;
+				display: block;
+				a {
+					font-family: "Roboto Condensed";
+					font-weight: 300;
+					padding: 0;
+				}
+			}
+		}
+	}
+}
+
+.container {
+  position: relative;
+  min-height: 100%;
+
+	.credit-box {
+		color: #AAA;
+		font-size: .8em;
+		position: fixed;
+		bottom: 20px;
+		left: 40px;
+		a {
+			color: inherit;
+			text-decoration: underline;
+		}
+	}
+	.mid-col {
+		position: absolute;
+		margin-left: 275px;
+  		min-height: 100%;
+  		left: 0;
+  		right: 0;
+		background: #ffffff;
+		color: #000;
+		#banner {
+			width: 100%;
+			small {
+			margin-right: 70px;
+			}
+		}
+		footer.inner {
+		  font-family: "Roboto Condensed";
+		  text-align: center;
+		  margin: 0px 70px 0px 40px;
+		  width: auto;
+		}
+		.mid-col-container {
+			font-size: 12px;
+			padding: 0px 70px 0px 100px;
+			#content {
+				width: 100%;
+				article {
+					border-top: none;
+					.title {
+						margin-left: 0px;
+						font-size: 2.5em;
+						font-weight: 700;
+					}
+					&.single-post .title{
+						text-align: center;
+						text-decoration: underline;
+					}
+					.entry-content {
+						font-family: "Roboto Condensed";
+						margin-left: 0px;
+						line-height: 1.4em;
+						font-size: 1.5em;
+						.gist .gist-file .gist-data {
+							.line_numbers {
+								line-height: inherit;
+							}
+							pre {
+								line-height: inherit;
+							}
+						}
+						h2 {
+							font-family: "Roboto Condensed";
+							font-size: 1.3em;
+							color: #333;
+							font-weight: bold;
+							border-bottom: none;
+						}
+						h2::before {
+							font-family: "Roboto Condensed";
+							border-bottom: none;
+						}
+						blockquote {
+							font-style: italic;
+							font-weight: 300;
+							border-left: 5px solid $greyshade;
+							background: #F7F7F7;
+						}
+						table {
+							line-height: 1.2em;
+							td {
+								text-align: left;
+							}
+						}
+						.header2 {
+							font-family: "Roboto Condensed";
+							font-size: 1.3em;
+							color: #333;
+							font-weight: bold;
+							border-bottom: none;
+						}
+					}
+					.meta {
+						position: relative;
+						float: right;
+						top: 0;
+						color: #555;
+						text-align: right;
+						width: auto;
+						.date::before {
+							color: #555;
+							position: relative;
+							margin-right: 10px;
+						}
+						.tags::before {
+							color: #999;
+							position: relative;
+							margin-right: 10px;
+						}
+					}
+					h1.title{
+						a {
+							font-weight: 700;
+							color: #333;
+							-webkit-transition: color 0.3s;
+							-moz-transition: color 0.3s;
+							-o-transition: color 0.3s;
+							transition: color 0.3s;
+						}
+						a:hover {
+							font-weight: 700;
+							color: $greyshade;
+							-webkit-transition: color 0.3s;
+							-moz-transition: color 0.3s;
+							-o-transition: color 0.3s;
+							transition: color 0.3s;
+						}
+					}
+				}
+			}
+		}
+		footer {
+			width: 100%;
+		}
+	}
+	.left-col:hover {
+		opacity: 1;
+	}
+	.left-col {
+		float: left;
+		width: 275px;
+		position: fixed;
+		opacity: 1;
+		height: 100%;
+		
+		#header {
+			width: auto;
+			#main-nav {
+				margin-top: 0;
+			}
+			.profilepic {
+				img {
+					border-radius: 50%;
+					-moz-border-radius: 50%;
+					-webkit-border-radius: 50%;
+				}
+			}
+			a {
+				color: #EFEFEF;
+				text-shadow: 0 1px #333;
+			}
+			a:hover {
+				color: $greyshade;
+			}
+			#sub-nav {
+				position
+				.search::before {
+				left: 10px;
+				}
+				.social {
+					margin-bottom: 10px;
+				}
+			}
+		}
+	}
+}
+
+.archives {
+	.title {
+		font-size: 1.2em;
+	}
+	article {
+		.meta {
+			line-height: 1.5em;
+			margin-top: 0;
+			span::before {
+				padding-right: 0;
+			}
+		}
+	}
+}
+
+a {
+	color: $greyshade;
+}
+
+a:hover {
+	color: $greyshade;
+}
+
+
+@media screen and (max-width: 1040px){
+	body{
+		margin: 0;
+	}
+}
+
+@media screen and (max-width: 799px){
+	.container {
+		.credit-box {
+			display: none;
+		}
+		.left-col {
+			position: relative;
+			height: 480px;
+			float: top;
+			width: 100%;
+			opacity: 1;
+			.intrude-less {
+				width: 80;
+				margin: auto;
+			}
+			#header {
+				padding: 40px 0px 20px;
+				text-align: center;
+				#sub-nav{
+					display: block;
+				}
+				#main-nav {
+						ul {
+							display: block;
+							li {
+								display: inline;
+								margin-right: 10px;
+							}
+						}
+				}
+			}
+		}
+		.mid-col {
+			font-size: 12px;
+			margin-top: 480px;
+			float: none;
+			width: 100%;
+			margin-left: 0;
+			left: 0;
+			right: 0;
+			.mid-col-container {
+				padding: 15px;
+				#content {
+					article {
+						.meta {
+							float: top;
+						}
+					}
+				}
+			}
+		}
+	}
+}

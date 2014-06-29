@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Welcome to my Android Development Blog"
+date: 2014-04-22 11:10:34 -0400
+comments: true
+categories: [Blogging]
+---
+Hi everyone, and welcome to my Android Development Blog!
+
+I have created this blog because I have been focusing on Android Design & Development quite a bit for the past year, and I am an active participant in the design and development communities afforded by Google. After hearing so much of what the community has to say on different topics from design to development, I figured I’d like to give my thoughts on the platform.
+
+<!-- more -->
+
+Note that this blog is meant for two purposes. The first is to keep myself and the community posted on the projects that I’m working on. The second is to hopefully provide some useful information and resources to you. I figured that by communicating my ideas throughout the entire development process, you’d be able to better make decisions about your development process. Also, I’d love to provide my thoughts and helpful tricks about certain parts of the SDK.
+
+Now, about me, I’m currently a student at the University of Maryland, College Park studying Computer Science. I have a big eye (and ear) for product design, not only in user interface but also in interaction and software architecture that are generally part of user experience. That said, I am also a passionate software engineer who always loves finding the most efficient algorithm to solve a problem. I believe that there is a lot of miscommunication in the industry between designers and developers and that both Computer Science & Design students should learn at least the fundamentals of the other skill.
+
+I genuinely hope that this blog will not only be a helpful source of information for you on Android Development, but also another reasonable perspective in the ideology of software design and development. Please feel free to leave me comments on any post and I will make sure to read each and every one.

@@ -1,0 +1,48 @@
+---
+layout: post
+title: "Pencil it In Part 1: The Problem"
+date: 2014-04-28 18:11:16 -0400
+comments: true
+categories: [Pencil it In, Android Design, Development Process]
+---
+<p>For the past few months, I've been designing an idea that's been percolating in my head. Sometimes ideas come serendipitously, in the way Roman Nurik <a href="https://medium.com/philosophy-logic/3a1721a6f716">came up</a> with Muzei, the elegant and inspiring solution to colorful Android home screen wallpapers. What I greatly admire about Roman's work is that he approaches very specific problems. Sometimes, this type of modular thinking is not only beneficial to the creator by targeting a specific market, but also for future developers who can leverage your progress to use in their own products.</p>
+
+<!-- more -->
+
+<p><span class="header2">The problem</span> emerged in the back of my mind this semester where at a certain point, I kept finding myself losing track of assignment deadlines, eventually having to email my professors for extensions. And when I forgot my TA's cell phone number, I felt almost hopeless on my General Chemistry homework. Almost as bad, I missed important meetings with co-workers, networking events, and dinners with friends.</p>
+
+<p>I immediately began looking for solutions, initially looking separately for those in each type of situation I had. After trying a physical agenda that I kept losing or forgetting to take with me, I decided that the solution should <b>always</b> be with me. That subsequently led me to download a collection of to-do list apps, notably Wunderlist and Google Keep. After a week of using task management apps, I noticed that my productivity did <b>not</b> go up that much. In fact, not only was there barely an increase in the rate of completion of my assignments, there was a huge increase in the amount of stress I felt. This was because I spent so much time adding and removing items from my lists that I was being horribly inefficient during my study hours planning out the rest of my life. As for the stress, some of the mindless tasks I threw on the list to remember just ended up getting thrown on the back burner of my brain, piling on top of each other.</p>
+
+In general, Jeff Atwood's <a href="http://blog.codinghorror.com/todont/">post</a> sums up what I've learned about lists.
+
+{% blockquote %}
+1. Lists give the illusion of progress.
+2. Lists give the illusion of accomplishment.
+3. Lists make you feel guilty for not achieving these things.
+4. Lists make you feel guilty for continually delaying certain items.
+5. Lists make you feel guilty for not doing things you don't want to be doing anyway.
+6. Lists make you prioritize the wrong things.
+7. Lists are inefficient. (Think of what you could be doing with all the time you spend maintaining your lists!)
+8. Lists suck the enjoyment out of activities, making most things feel like an obligation.
+9. Lists don't actually make you more organized long term.
+10. Lists can close you off to spontaneity and exploration of things you didn't plan for. (Let's face it, it's impossible to really plan some things in life.)
+{% endblockquote %}
+
+<br>
+
+{% img center /images/wundlist.gif %}
+{% img center /images/keep.png %}
+
+
+<p>However, remember that calendars can still be usable as parts of lists! In general, lists of fixed and time-sensitive events don't leave the student dwelling on them and are okay to use. There's still a lot of debate on whether they should be organized in any way, and even further, whether lists should not be used by everyone. So this was the realization that I came to from attempting to use to-do list apps, <b>using a generic list to organize the structure of assignments and schedules is a NO-NO.</b> Next comes contact management.</p>
+
+<p>I'm a Google Contacts guy. I sync all my contacts to Google, and when I email a professor to ask a question, I expect his contact info to be saved in the cloud. Moreover, and this may sound really hopeful, but when I look for a professor's contact info in my contacts app, I expect all of his/her info to be automatically consolidated under one item. To me, this is the minimum to ask for in a contact manager, for instance, why don't mobile contact managers allow users to simply group contacts under different categories? To save you all the trouble of reading this, I found no contact manager that cut down my interaction and time spent enough to allow me to say they simplified my life.</p>
+
+
+<p>Now don't get me wrong, some of these applications did give me a better sense of a possible solution that I'll get to in a future post. For instance, Contacts+ offers manual consolidation of duplicate contacts that I find to be very helpful in cutting my time spent choosing the correct method of reaching the other person. But where it cut down my time, somewhere else it dragged. For example, the onboarding flow in this app is painstakingly long, which has me log into all of my social accounts, turn on SMS, while swiping through screens I probably will never read, all to be greeted with dialogs giving me update information and requests to consolidate my data.</p>
+
+
+<p>And as for the list apps, they also make certain tradeoffs. What Wunderlist does really well is it brings collaboration into to-do lists, which I found helpful. However, the same app gets very specific into the categories of lists the user can make, encouraging the user to spend all of their time dividing up their time into trivial tasks. While this reduces the amount of information the brain has to store, it brings me back to Atwood's point above, which is that lists give the illusion of accomplishment. Remember, lists are mainly good for time-sensitive items like calendar events or assignments.</p>
+
+
+<p>So in summary, in my approach to this problem, I've been analyzing the psychology of any user while using lifestyle management applications. By putting myself in their shoes, I get way more insight into what the possible solutions to the problem are. Talking to a lot of other students about how they would better improve their organization also gives us problem-solvers that insight. I mean, one of them has to have some helpful insight right? In the next article, I'll talk about my initial approach to creating a solution and the inspiration I took from.</p>
